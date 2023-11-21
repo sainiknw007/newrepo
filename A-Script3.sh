@@ -8,3 +8,4 @@ export JDK_HOME=/bin/jdk
 echo "my new JDK Home is=$JDK_HOME"
 echo "this is comments after commit1"
 echo "Husband: We have to travel Goa"
+echo "Wife: We have to travel Manali"
