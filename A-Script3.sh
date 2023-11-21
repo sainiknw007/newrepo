@@ -6,3 +6,4 @@ echo "This is my system path $PATH"
 #Set a JDK environment variable.
 export JDK_HOME=/bin/jdk
 echo "my new JDK Home is=$JDK_HOME"
+echo "this is comments after commit1"
